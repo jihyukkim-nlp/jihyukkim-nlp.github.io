@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About Me
+title: Jihyuk Kim
 permalink: /about/
 ---
 
-## Jihyuk Kim
-> 
 PhD Student <br>
 Computer Science, Yonsei University <br>
 jihyukkim@yonsei.ac.kr
