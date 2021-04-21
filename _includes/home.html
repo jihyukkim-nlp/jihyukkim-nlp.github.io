@@ -1,24 +1,37 @@
 <article class="post">
   <header class="post-header home">
-    <div class="post-title">Articles</div>
+    <div class="post-title">About Me</div>
   </header>
 
   <div class="post-content">
-      {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li class="post-list-item">
-        <!-- {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%} -->
-        {%- assign date_format = "%Y/%m/%d" -%}
-        <span class="post-date">{{ post.date | date: date_format }}</span>
-      	<a class="post-link" href="{{ post.url | relative_url }}">
-    	    {{ post.title | escape }}
-		</a>
-        {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
+{%- if site.posts.size > 0 -%}
+	
+	  
+	  
+<p>PhD Student <br>
+Computer Science, Yonsei University <br>
+jihyukkim@yonsei.ac.kr</p>
+<h3 id="industry">Industry</h3>
+<ul>
+<li><b>Internship at NAVER</b> (2020/07/13-2020/09/25) </li>
+</ul>
+<h3 id="publications">Publications</h3>
+<ul>
+<li><b>Web Document Encoding for Structure-Aware Keyphrase Extraction</b>. <u>Jihyuk Kim</u>, Young-In Song, Seung-won Hwang. SIGIR 2021 (short)</li>
+<li><b>Retrieval-Augmented and Controllable Review Generation</b>. <u>Jihyuk Kim</u>, Seungtaek Choi, Reinald Kim Amplayo, and Seung-won Hwang. COLING 2020</li>
+<li><b>Categorical Metadata Representation for Customized Text Classification</b>. <u>Jihyuk Kim<em></u>, Reinald Kim Amplayo</em>, Sua Sung, and Seung-won Hwang. TACL 2019 (equal contribution)</li>
+<li><b>Cold-Start Aware User and Product Attention for Sentiment Classification</b>. Reinald Kim Amplayo, <u>Jihyuk Kim</u>, Sua Sung, and Seung-won Hwang. ACL 2018</li>
+</ul>
+  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	
+{%- endif -%}  
   </div>
 </article>
 
