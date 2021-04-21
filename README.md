@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Jihyuk Kim
-permalink: /about/
+permalink: //
 ---
+
 
 PhD Student <br>
 Computer Science, Yonsei University <br>
