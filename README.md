@@ -6,8 +6,8 @@ permalink: /about/
 
 ## Jihyuk Kim
 > 
-PhD Student
-Computer Science, Yonsei University
+PhD Student <br>
+Computer Science, Yonsei University <br>
 jihyukkim@yonsei.ac.kr
 
 
