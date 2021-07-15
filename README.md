@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Jihyuk Kim
-permalink: /about/
+<!-- permalink: /about/ -->
+permalink: /
 ---
 
 
