@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Jihyuk Kim
-<!-- permalink: /about/ -->
 permalink: /
 ---
+<!-- permalink: /about/ -->
+
 
 
 PhD Student <br>
