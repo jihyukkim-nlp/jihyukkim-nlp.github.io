@@ -19,5 +19,5 @@ jihyukkim@yonsei.ac.kr
 ### Publications
 - <b>Web Document Encoding for Structure-Aware Keyphrase Extraction</b>. <u>Jihyuk Kim</u>, Young-In Song, Seung-won Hwang. SIGIR 2021 (short)
 - <b>Retrieval-Augmented and Controllable Review Generation</b>. <u>Jihyuk Kim</u>, Seungtaek Choi, Reinald Kim Amplayo, and Seung-won Hwang. COLING 2020
-- <b>Categorical Metadata Representation for Customized Text Classification</b>. <u>Jihyuk Kim\*</u>, Reinald Kim Amplayo\*, Sua Sung, and Seung-won Hwang. TACL 2019 (equal contribution)
+- <b>Categorical Metadata Representation for Customized Text Classification</b>. <u>Jihyuk Kim*</u>, Reinald Kim Amplayo\*, Sua Sung, and Seung-won Hwang. TACL 2019 (equal contribution)
 - <b>Cold-Start Aware User and Product Attention for Sentiment Classification</b>. Reinald Kim Amplayo, <u>Jihyuk Kim</u>, Sua Sung, and Seung-won Hwang. ACL 2018
