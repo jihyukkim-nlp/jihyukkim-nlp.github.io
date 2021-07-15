@@ -10,11 +10,11 @@ PhD Student <br>
 Computer Science, Yonsei University <br>
 jihyukkim@yonsei.ac.kr
 
-### Voluteer
+### Professional Services
 - ACL 2021 reviewer (<b>outstanding reviewer</b>), EMNLP 2021 reviewer
 - SIGIR 2021 student volunteer
 
-### Industry
+### Industry Experience
 - <b>Internship at NAVER</b> (2020/07/13-2020/09/25) 
 
 ### Publications
