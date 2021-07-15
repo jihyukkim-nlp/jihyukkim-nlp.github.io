@@ -10,7 +10,7 @@ Computer Science, Yonsei University <br>
 jihyukkim@yonsei.ac.kr
 
 ### Voluteer
-- ACL 2021 reviewer (<b>outstanding reviewer<b>), EMNLP 2021 reviewer
+- ACL 2021 reviewer (<b>outstanding reviewer<\b>), EMNLP 2021 reviewer
 - SIGIR 2021 student volunteer
 
 ### Industry
