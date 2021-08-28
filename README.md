@@ -18,7 +18,7 @@ jihyukkim@yonsei.ac.kr
 - <b>Internship at NAVER</b> (2020/07/13-2020/09/25) 
 
 ### Publications
-- <b>Structure-Aware Kephrase Generation</b>. <u>Jihyuk Kim*</u>, Myeongho Jeong*, Seungtaek Choi and Seung-won Hwang. EMNLP 2021 (* equal contribution)
+- <b>Structure-Aware Kephrase Generation</b>. <u>Jihyuk Kim*</u>, Myeongho Jeong\*, Seungtaek Choi and Seung-won Hwang. EMNLP 2021 (* equal contribution)
 - <b>Web Document Encoding for Structure-Aware Keyphrase Extraction</b>. <u>Jihyuk Kim</u>, Young-In Song, Seung-won Hwang. SIGIR 2021 (short)
 - <b>Retrieval-Augmented and Controllable Review Generation</b>. <u>Jihyuk Kim</u>, Seungtaek Choi, Reinald Kim Amplayo, and Seung-won Hwang. COLING 2020
 - <b>Categorical Metadata Representation for Customized Text Classification</b>. <u>Jihyuk Kim*</u>, Reinald Kim Amplayo\*, Sua Sung, and Seung-won Hwang. TACL 2019 (* equal contribution)
