@@ -21,12 +21,12 @@
   <div id="header-content" class="content">
   <h1>Jihyuk Kim</h1>
 
-  <div id="photo">
+  <!-- <div id="photo">
       <img src="./assets/picture.jpeg">
-  </div>
+  </div> -->
 
   <div id="main">
-      <p>
+  <p>
       PhD Student<br />
       Computer Science <br />
       Yonsei University<br />
@@ -35,11 +35,11 @@
       [<a href="https://scholar.google.co.kr/citations?user=ja3HrV0AAAAJ&hl=ko&oi=ao">Google Scholar</a>] 
       [<a href="https://github.com/jihyukkim-nlp">GitHub</a>] 
       <!-- [<a href="https://twitter.com/hist8233">Twitter</a>]  -->
-      </p>
+  </p>
 
-      <p>
-        Research Interests: 
-      </p>
+  <p>
+    Research Interests: 
+  </p>
       <ul>
           <li><b>NLP using metadata</b></li>
           <li><b>Structures in texts</b></li>
@@ -74,7 +74,7 @@
     </li>
     <li>
       <b>Retrieval-Augmented Controllable Review Generation.</b> <br/>
-      <u>Jihyeok Kim</u>, Seungtaek Choi, Reinald Kim Amplayo, and Seung-won Hwang. <br/>
+      <u>Jihyuk Kim</u>, Seungtaek Choi, Reinald Kim Amplayo, and Seung-won Hwang. <br/>
       COLING 2020.<br/>
       [<a href="https://www.aclweb.org/anthology/2020.coling-main.207.pdf">PDF</a>]
       <!--[<a href="#" class="link-in-list">Code/Data</a>]-->
