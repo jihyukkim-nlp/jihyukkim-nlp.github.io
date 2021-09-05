@@ -34,6 +34,7 @@
       <!-- [<a href="./assets/cv.pdf">CV</a>]  -->
       [<a href="https://scholar.google.co.kr/citations?user=ja3HrV0AAAAJ&hl=ko&oi=ao">Google Scholar</a>] 
       [<a href="https://github.com/jihyukkim-nlp">GitHub</a>] 
+      [<a href="https://kr.linkedin.com/in/jihyuk-kim-576090180?trk=public_profile_samename-profile">LinkedIn</a>]
       <!-- [<a href="https://twitter.com/hist8233">Twitter</a>]  -->
   </p>
 
