@@ -90,7 +90,7 @@
     </li>
     <li>
       <b>Cold-Start Aware User and Product Attention for Sentiment Classification.</b> <br/>
-      Jihyuk KimReinald Kim Amplayo, <u>Jihyuk Kim</u>, Sua Sung, and Seung-won Hwang. <br/>
+      Reinald Kim Amplayo, <u>Jihyuk Kim</u>, Sua Sung, and Seung-won Hwang. <br/>
       ACL 2018.<br />
       [<a href="https://aclanthology.org/P18-1236.pdf" class="link-in-list">PDF</a>]
     </li>
