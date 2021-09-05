@@ -83,7 +83,7 @@
     <li>
       <b>Categorical Metadata Representation for Customized Text Classification.</b> <br/>
       <u>Jihyuk Kim*</u>, Reinald Kim Amplayo*, Sua Sung, and Seung-won Hwang. <br/>
-      COLING 2020.<br/>
+      TACL 2020.<br/>
       (* equal contribution)<br/>
       [<a href="https://aclanthology.org/Q19-1013.pdf">PDF</a>]
       [<a href="https://github.com/jihyukkim-nlp/BasisCustomize" class="link-in-list">Code/Data</a>]
