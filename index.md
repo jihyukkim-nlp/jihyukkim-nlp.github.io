@@ -99,7 +99,7 @@
 
   <h3>Awards & Scholarships</h3>
   <ul>
-    <li><b>Outstanding reviewer</b> at ACL 2021</li>
+    <li><b>Outstanding Reviewer</b> at ACL 2021</li>
     <li><b>Computer Science Department Scholarship (graduate school)</b> at Yonsei University 2019-2021</li>
     <li><b>BK21+ Scholarship (Korean Government Scholarship Program)</b> at Yonsei University 2019</li>
     <li><b>Computer Science Department Scholarship (undergraduate)</b> at Yonsei University 2018</li>
