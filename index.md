@@ -1,3 +1,126 @@
----
-layout: home
----
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Jihyuk Kim</title>
+  <meta name="description" content="Jihyuk Kim's homepage">
+
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+  <link href="./css/github-light.css" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
+</head>
+<body>
+
+    <div id="header-content" class="content">
+        <h1>Jihyuk Kim</h1>
+
+        <div id="photo">
+            <img src="./assets/picture.jpeg">
+        </div>
+
+        <div id="main">
+            <p>
+            PhD Student<br />
+            Computer Science <br />
+            Yonsei University<br />
+            jihyukkim (at) yonsei.ac.kr <br />
+            <!-- [<a href="./assets/cv.pdf">CV</a>]  -->
+            [<a href="https://scholar.google.co.kr/citations?user=ja3HrV0AAAAJ&hl=ko&oi=ao">Google Scholar</a>] 
+            [<a href="https://github.com/jihyukkim-nlp">GitHub</a>] 
+            <!-- [<a href="https://twitter.com/hist8233">Twitter</a>]  -->
+            </p>
+
+            <p>
+              Research Interests: 
+            </p>
+            <ul>
+                <li><b>NLP using metadata</b></li>
+                <li><b>Structures in texts</b></li>
+                <li><b>Information retrieval</b></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="content">
+      <!-- <h3>News</h3>
+      <ul>
+        <li><b>Apr 2021</b>: Paper on label-context augmentation for dialogue got accepted in <a href="https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing">TASLP 2021</a>.</li>
+      </ul>
+      <br> -->
+
+      <h3>Publications</h3>
+
+      <ul class="sparse-list">
+        <li>
+          <b>Structure-Augmented Keyphrase Generation.</b> <br/>
+          <u>Jihyuk Kim</u>, Myeongho Jeong, Seungtaek Choi, and Seung-won Hwang. <br/>
+          EMNLP 2021. <br/>
+          <!--[<a href="#">PDF</a>]-->
+          <!--[<a href="#" class="link-in-list">Code/Data</a>]-->
+        </li>
+        <li>
+          <b>Web Document Encoding for Structure-Aware Keyphrase Extraction.</b> <br/>
+          <u>Jihyuk Kim</u>, Young-In Song, Seung-won Hwang. <br/>
+          SIGIR 2021 (short). <br/>
+          [<a href="https://dl.acm.org/doi/10.1145/3404835.3463067">PDF</a>]
+          <!--[<a href="#" class="link-in-list">Code/Data</a>]-->
+        </li>
+        <li>
+          <b>Retrieval-Augmented Controllable Review Generation.</b> <br/>
+          <u>Jihyeok Kim</u>, Seungtaek Choi, Reinald Kim Amplayo, and Seung-won Hwang. <br/>
+          COLING 2020.<br/>
+          [<a href="https://www.aclweb.org/anthology/2020.coling-main.207.pdf">PDF</a>]
+          <!--[<a href="#" class="link-in-list">Code/Data</a>]-->
+        </li>
+        <li>
+          <b>Categorical Metadata Representation for Customized Text Classification.</b> <br/>
+          <u>Jihyuk Kim*</u>, Reinald Kim Amplayo*, Sua Sung, and Seung-won Hwang. <br/>
+          COLING 2020.<br/>
+          (* equal contribution)<br/>
+          [<a href="https://aclanthology.org/Q19-1013.pdf">PDF</a>]
+          [<a href="https://github.com/jihyukkim-nlp/BasisCustomize" class="link-in-list">Code/Data</a>]
+        </li>
+        <li>
+          <b>Cold-Start Aware User and Product Attention for Sentiment Classification.</b> <br/>
+          Jihyuk KimReinald Kim Amplayo, <u>Jihyuk Kim</u>, Sua Sung, and Seung-won Hwang. <br/>
+          ACL 2018.<br />
+          [<a href="https://aclanthology.org/P18-1236.pdf" class="link-in-list">PDF</a>]
+        </li>
+      </ul>
+      <br>
+
+      <h3>Awards & Scholarships</h3>
+      <ul>
+        <li><b>Outstanding reviewer</b> at ACL 2021</li>
+        <li><b>Computer Science Department Scholarship (graduate school)</b> at Yonsei University 2019-2021</li>
+        <li><b>BK21+ Scholarship (Korean Government Scholarship Program)</b> at Yonsei University 2019</li>
+        <li><b>Computer Science Department Scholarship (undergraduate)</b> at Yonsei University 2018</li>
+      </ul>
+      <br>
+
+      <h3>Industry Experience</h3>
+      <ul>
+        <li>Research Internship, NAVER Search (July 2020 ~ Aug 2020)</li>
+      </ul>
+
+      <h3>Professional Service</h3>
+      <ul>
+        <li>ACL 2021 reviewer (outstanding reviewer), EMNLP 2021 reviewer</li>
+        <li>SIGIR 2021 student volunteer</li>
+      </ul>
+
+    </div>
+  <script>
+    jQuery(document).ready(function() {
+      jQuery('[data-toggle="tooltip"]').tooltip({html:true})
+    });
+  </script>
+</body>
+</html>
