@@ -108,7 +108,7 @@
 
   <h3>Industry Experience</h3>
   <ul>
-    <li>Research Internship, NAVER Search (July 2020 ~ Aug 2020)</li>
+    <li>Research Intern, NAVER Search (July 2020 ~ Aug 2020)</li>
   </ul>
 
   <h3>Professional Service</h3>
