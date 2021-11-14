@@ -22,7 +22,7 @@
   <h1>Jihyuk Kim</h1>
 
   <div id="photo">
-      <img src="./assets/picture.jpeg">
+      <img src="./assets/profile_photo.jpeg">
   </div>
 
   <div id="main">
