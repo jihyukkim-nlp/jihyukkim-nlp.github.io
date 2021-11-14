@@ -21,9 +21,9 @@
   <div id="header-content" class="content">
   <h1>Jihyuk Kim</h1>
 
-  <!-- <div id="photo">
+  <div id="photo">
       <img src="./assets/picture.jpeg">
-  </div> -->
+  </div>
 
   <div id="main">
   <p>
