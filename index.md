@@ -42,7 +42,7 @@
     Research Interests: 
   </p>
       <ul>
-          <li><b>Information Retrieval, Search, Document/Passage Retrieval, Dense Retrieval</b></li>
+          <li><b>Information Retrieval, Document/Passage Retrieval, Dense Retrieval</b></li>
           <li><b>Structures in Texts, Metadata for Text Understanding</b></li>
           <li><b>Keyphrase Extraction/Generation</b></li>
       </ul>
